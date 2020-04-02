@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paintComponent(java.awt.Graphics)
+comment0.text=\r\n\ method\ used\ in\ awt\ to\ "paint"\ on\ the\ component\r\n\r\n\ @param\ g\ graphics\ used\ to\ "paint"\ with\r\n\ @return\ none\r\n
+numComments=1
